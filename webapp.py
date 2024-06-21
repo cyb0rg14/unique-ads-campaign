@@ -10,6 +10,7 @@ from constants import indian_states_and_ut
 st.set_page_config(
     page_title="Unique Ads Campaign",
     page_icon=":bar_chart:",
+    layout="wide"    
 )
 
 # Set homepage
